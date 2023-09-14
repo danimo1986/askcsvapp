@@ -6,3 +6,4 @@ sentence-transformers
 langchain
 python-dotenv
 openai
+tabulate
